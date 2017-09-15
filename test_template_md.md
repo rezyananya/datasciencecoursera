@@ -33,7 +33,7 @@ png(filename = 'hist1.png', width = 480, height = 480, units='px')
 Graph is showing the hightest steps taken during the period (10000 - 15000).  
 ```
 
-![alt text](/users/Priyanka/Documents/Reproducible/hist.png?raw=true)
+![alt text](/users/Priyanka/Documents/Reproducible/hist%20.png)
 
 #Calculate and report the mean and median of the total number of steps taken per day
 
